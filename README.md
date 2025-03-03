@@ -56,9 +56,8 @@ I am the darkness that binds it all—frontend ferocity, backend brutality, and 
 
 ## 🕷️ Join My Web
 Think you can handle the darkness? Reach out, if you dare:  
-- **[LinkedIn](https://linkedin.com/in/your-profile)** 🖤 – Enter my network.  
-- **[Email](mailto:your.email@example.com)** 💀 – Whisper in the void.  
-- **[Twitter/X](https://twitter.com/your-handle)** 🕸️ – Stalk my thoughts. *(optional)*  
+- **[LinkedIn](https://www.linkedin.com/in/qu%E1%BB%91c-th%E1%BB%A5y-%C4%91inh-819339197/)** 🖤 – Enter my network.  
+- **[Email](mailto:qthuy@gmail.com)** 💀 – Whisper in the void.  
 
 ---
 
