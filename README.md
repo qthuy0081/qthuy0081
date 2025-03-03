@@ -63,8 +63,7 @@ Got a project, a question, or just wanna geek out? I’m here for it!
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=qthuy0081&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 ✨ *Dive into my repos below—there’s a treasure trove of code waiting for you!* ✨
