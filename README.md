@@ -1,69 +1,69 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKz9bDaADogXgFq/giphy.gif" width="300" alt="Coding GIF">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNtZm1kNDgyOHVuZm4wMXgxbDBpYWNjYmNoOHF5OWI2enlybnFydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GgJAfbEneiDLi/giphy.gif" width="300" alt="Venom GIF">
 </p>
 
-# 🌟 Welcome to My Code Cosmos, I’m Eddie! 🌟
+# 🕷️ I Am [Your Name], The Full-Stack Symbiote 🕸️
 
-Hey, fellow tech explorer! I’m a **Full-Stack Developer** who lives to create dazzling, high-performing web apps. I dance between frontend finesse and backend brilliance, turning ideas into reality with a splash of creativity and a ton of code. Ready to explore my colorful world? 🎨✨
-
----
-
-## 🌈 My Tech Stack Symphony 🎶
-I’m armed with a vibrant arsenal of tools to build end-to-end masterpieces. Here’s the lineup:
-
-### 🎨 Frontend Flair
-- **TypeScript**: Precision-typed JS for flawless frontends.  
-- **Angular**: Structured frameworks that make my heart sing.  
-- **React**: Dynamic, component-driven UI wizardry.  
-
-### ⚙️ Backend Brilliance
-- **Python**: Sleek, elegant logic for server-side magic.  
-- **Node.js**: Fast, scalable, and oh-so-versatile runtime power.  
-- **NestJS**: Building robust APIs with TypeScript elegance and structure.  
-
-### 🛠️ DevOps Delight
-- **Docker**: Containerizing apps for that smooth, portable flow.  
-- **Nginx**: Serving up speed and style like a pro.  
-
-### 🤖 AI Adventures
-- **OpenAI**: Infusing AI smarts into my projects for extra sparkle.  
+Greetings, mortal. I’m a **Full-Stack Developer**, a dark force of code fused with creativity and chaos. I devour frontends, conquer backends, and unleash apps that bite. We are Venom—welcome to my shadowy domain. 🖤💀
 
 ---
 
-## 🌻 What’s Blooming in My Code Garden?
-I’m always planting new seeds and watching them grow. Here’s what’s sprouting:
-- 🖼️ Crafting pixel-perfect UIs with Angular and React flair.  
-- 🐍 Spinning up Python backends with clean, efficient code.  
-- 🚀 Powering APIs and microservices with Node.js and NestJS brilliance.  
-- 🐳 Dockerizing everything for seamless, scalable deployments.  
-- 💡 Experimenting with OpenAI to add intelligence to my apps.  
-- 🌟 Hunting for the next big challenge—got a wild idea? Let’s team up!  
+## 🧬 My Venomous Skillset
+I wield a lethal array of tools, forged in the abyss of tech. Feast your eyes:
+
+### 🕷️ Frontend Carnage
+- **TypeScript**: Precision claws for taming JavaScript.  
+- **Angular**: Structured webs of power and control.  
+- **React**: Agile, reactive strikes of UI domination.  
+
+### 💀 Backend Hunger
+- **Python**: Silent, slithering logic that strikes deep.  
+- **Node.js**: A venomous swarm of speed and scale.  
+- **NestJS**: Architected chaos, TypeScript’s dark enforcer.  
+
+### 🕸️ DevOps Shadows
+- **Docker**: Cages of containment for my creations.  
+- **Nginx**: A stealthy shield, serving with deadly grace.  
+
+### 🧠 AI Instincts
+- **OpenAI**: Tapping into the hive mind for sinister smarts.  
 
 ---
 
-## 💻 Full-Stack Passion: The Whole Journey
-I’m a true full-stack soul—obsessed with every layer of the stack. From designing responsive frontends that pop, to architecting backend systems that hum, to deploying with DevOps finesse, I’ve got it all covered. *Code is my playground, and I build with purpose.*  
+## 🖤 What Fuels My Hunger?
+I prowl the code realm, leaving trails of destruction and brilliance:
+- 🕷️ Spinning deadly UIs with Angular and React’s venomous touch.  
+- 🐍 Striking with Python precision for backend supremacy.  
+- ⚡ Unleashing Node.js and NestJS to devour API challenges.  
+- 🐳 Entrapping apps in Docker’s dark embrace for flawless deployment.  
+- 🧠 Injecting OpenAI’s intellect into my twisted experiments.  
+- 💀 Stalking the next prey—dare to challenge me?  
 
 ---
 
-## 🌟 A Peek Into My World
-- 🎮 I’m a sci-fi nerd and occasional gamer when I’m not coding.  
-- ☕ Coffee fuels my late-night coding marathons.  
-- 🌍 Forever curious—ask me about my latest passion project!  
-- 🔧 Fun fact: I once debugged a NestJS app in my sleep (well, almost).  
+## 🕸️ We Are Full-Stack
+I am the darkness that binds it all—frontend ferocity, backend brutality, and DevOps dominion. From the shadows of design to the depths of deployment, I consume every layer. *Code is my host, and I am its master.*  
 
 ---
 
-## 📬 Let’s Create Something Legendary!
-Got a project, a question, or just wanna geek out? I’m here for it!  
-- **[LinkedIn](https://www.linkedin.com/in/qu%E1%BB%91c-th%E1%BB%A5y-%C4%91inh-819339197/)** 💼 – Let’s connect professionally!  
-- **[Email](mailto:qthuy.0081@gmail.com)** ✉️ – Hit me up anytime!  
+## 🖤 Shadows of My Soul
+- 🕹️ I feast on sci-fi and chaos when the code rests.  
+- ☕ Black coffee runs through my veins—fuel for the hunt.  
+- 🧬 I once rewrote a NestJS app in a single night—fear me.  
+- 🌌 The abyss stares back—and I stare harder.  
 
+---
+
+## 🕷️ Join My Web
+Think you can handle the darkness? Reach out, if you dare:  
+- **[LinkedIn](https://linkedin.com/in/your-profile)** 🖤 – Enter my network.  
+- **[Email](mailto:your.email@example.com)** 💀 – Whisper in the void.  
+- **[Twitter/X](https://twitter.com/your-handle)** 🕸️ – Stalk my thoughts. *(optional)*  
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qthuy0081&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=qthuy0081&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
 
-✨ *Dive into my repos below—there’s a treasure trove of code waiting for you!* ✨
+🕷️ *Descend into my repos below—taste the venom of my code.* 🕸️
