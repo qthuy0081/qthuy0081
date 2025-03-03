@@ -2,7 +2,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNtZm1kNDgyOHVuZm4wMXgxbDBpYWNjYmNoOHF5OWI2enlybnFydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GgJAfbEneiDLi/giphy.gif" width="300" alt="Venom GIF">
 </p>
 
-# 🕷️ I Am [Your Name], The Full-Stack Symbiote 🕸️
+# 🕷️ I Am [Eddie], The Full-Stack Symbiote 🕸️
 
 Greetings, mortal. I’m a **Full-Stack Developer**, a dark force of code fused with creativity and chaos. I devour frontends, conquer backends, and unleash apps that bite. We are Venom—welcome to my shadowy domain. 🖤💀
 
